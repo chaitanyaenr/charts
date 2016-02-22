@@ -1,0 +1,8 @@
+name: nodejs-mongodb-stack
+home: http://meanjs.org/
+version: 0.1.0
+description: nodejs-mongodb-stack
+maintainers:
+- Naga Ravi Chaitanya Elluri <nelluri@deis.com>
+details:
+  Deploys a Node.js and MongoDB web stack on Kubernetes
